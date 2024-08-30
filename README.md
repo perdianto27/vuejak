@@ -1,6 +1,6 @@
-# vuesucod
+# vuejak
 
-> aplikasi vuesucod
+> aplikasi vuejak
 
 ## Build Setup
 
